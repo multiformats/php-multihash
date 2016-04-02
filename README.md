@@ -1,4 +1,4 @@
-# multihash-php
+# php-multihash
 
 PHP implementation for jbenet's [multihash](https://github.com/jbenet/multihash).
 
